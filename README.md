@@ -5,7 +5,7 @@ The code comprises a simple weather forecast web app using HTML, CSS, and JavaSc
 The webpage dynamically updates with details like temperature and description, while CSS styles enhance the visual presentation
 
 
-LINK :
+LINK :https://deepthi-2024.github.io/Weather-Forecast/
 
 
 The provided code constitutes a basic weather forecast web application. The HTML file establishes the page structure, featuring a form for users to input a city name and a container to display weather information. 
